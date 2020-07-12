@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWComClient", "HWComClient\HWComClient.csproj", "{1C69EB3F-4322-492C-82F1-81E26E5CC6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C69EB3F-4322-492C-82F1-81E26E5CC6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C69EB3F-4322-492C-82F1-81E26E5CC6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C69EB3F-4322-492C-82F1-81E26E5CC6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C69EB3F-4322-492C-82F1-81E26E5CC6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65E7B90-F4CA-4BBD-9A6F-72C0032D3E94}
+	EndGlobalSection
+EndGlobal

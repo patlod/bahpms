@@ -1,0 +1,30 @@
+
+Log from : 14:31:19 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+
+
+Log from : 14:32:18 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+
+
+Log from : 14:33:33 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+
+
+Log from : 14:34:26 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+
+
+Log from : 14:36:06 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+

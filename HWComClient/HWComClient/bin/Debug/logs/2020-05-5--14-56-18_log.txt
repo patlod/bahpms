@@ -1,0 +1,6 @@
+
+Log from : 14:56:18 Dienstag, 5. Mai 2020
+ Entry format : vBat0 / vBat1 / vBat2  vBat3 / vSolar / iSolar / iCharge / iLoad / activeBat / chargngBat
+-------------------------------
+
+

@@ -1,0 +1,12 @@
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\bin\Debug\HWComClient.exe.config
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\bin\Debug\HWComClient.exe
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\bin\Debug\HWComClient.pdb
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.csprojAssemblyReference.cache
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.Form1.resources
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.Properties.Resources.resources
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.csproj.GenerateResource.cache
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.csproj.CoreCompileInputs.cache
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.exe
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.pdb
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\bin\Debug\EasyModbus.dll
+C:\Users\patrickl\source\repos\HWComClient\HWComClient\obj\Debug\HWComClient.csproj.CopyComplete
