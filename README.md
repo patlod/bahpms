@@ -3,7 +3,7 @@
 Thesis Project:  Development and Evaluation of a Hybrid Power Management System for Airships Intended for Infrared Thermographic Inspection of Photovoltaic Plants
 
 ## Airship
-<img src="images/blimpPrototype4711.jpg">
+<img src="bahpms/images/blimpPrototype4711.jpeg">
 
 ### TODO: Add images and diagrams
 - Airship
