@@ -10,6 +10,7 @@ Thesis Project:  Development and Evaluation of a Hybrid Power Management System 
 
 ### Inteded Mission
 While vehcile monitors photovoltaic plants it will extend its flight time by charging itself with solar power.
+
 ![PV Plant Monitoring](images/photoPlant.png)
 ![Irradiation Cross Section Blimp](images/crossSectionBlimp.png)
 
@@ -19,6 +20,7 @@ While vehcile monitors photovoltaic plants it will extend its flight time by cha
 
 ## Hybrid Power Management System (HPMS)
 Hardware which manages the charging process of the vehicle and switching between power supplies.
+
 ![HPMS](images/hw_2nd_pt.jpeg)
 
 ## Testing HPMS
@@ -28,4 +30,5 @@ Hardware which manages the charging process of the vehicle and switching between
 ## Hardware Communication Client on the Ground
 ### Concept
 ![Hardware Communication Client Concept](images/HWComClientConcept.png)
+
 Wireless data exchange with vehicle hardware including charge states, charge rates, battery information (which is currently active and which is charged), manually switch between power supplies, etc.
